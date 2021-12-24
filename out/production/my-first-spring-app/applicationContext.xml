@@ -9,13 +9,9 @@
 
     <!-- Define your beans here -->
     <bean id="myCoach"
-    class="com.electric_relaxation.BaseballCoach">
+    class="com.electric_relaxation.RugbyCoach">
     </bean>
 
-    <bean id="trackCoach"
-    class="com.electric_relaxation.TrackCoach">
-    </bean>
-    
 </beans>
 
 
