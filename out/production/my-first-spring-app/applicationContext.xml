@@ -11,6 +11,10 @@
     <bean id="myCoach"
     class="com.electric_relaxation.BaseballCoach">
     </bean>
+
+    <bean id="trackCoach"
+    class="com.electric_relaxation.TrackCoach">
+    </bean>
     
 </beans>
 
